@@ -1,0 +1,6 @@
+[submodule "backend"]
+    path = backend
+    url = https://github.com/QuantumLogicsLabs/QPM-Website-Backend.git
+[submodule "frontend"]
+    path = frontend
+    url = https://github.com/QuantumLogicsLabs/QPM-Website-Frontend.git
