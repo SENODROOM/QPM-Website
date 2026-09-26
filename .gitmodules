@@ -4,3 +4,6 @@
 [submodule "frontend"]
     path = frontend
     url = https://github.com/QuantumLogicsLabs/QPM-Website-Frontend.git
+[submodule "qpm-publishers"]
+   path = qpm-publishers
+   url =https://github.com/QuantumLogicsLabs/Qpm-Publishers.git
